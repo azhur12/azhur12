@@ -8,8 +8,8 @@
 </a>
 
 ### About me
-- :mechanical_arm: I'm currently studing Software Engineering & Computer Science
-- :uk: English B2 
+- 🦾 I'm currently studing Software Engineering & Computer Science
+- 🍵 English B2 
 
 
 ### Languages and tools
