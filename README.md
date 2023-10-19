@@ -25,9 +25,9 @@
 
 <div id="stats" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azhur12&theme=default"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azhur12&theme=default"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azhur12&theme=default"/>&nbsp;
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azhur12&theme=default"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=azhur12&theme=default"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=azhur12&theme=default"/>&nbsp;
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azhur12&theme=default&utcOffset=8"/>
 </div>
 
