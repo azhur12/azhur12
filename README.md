@@ -1,14 +1,14 @@
 <div id = "header" align = "center">
     <h1>Hi there, I'm Alexander</h1>
     <h3>ITMO student from Saint-Petersburg</h3>
+    <a href="https://t.me/azhurpheel">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
 </div>
-
-<a href="https://t.me/azhurpheel">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
 
 ### About me
 - 🦾 I'm currently studing Software Engineering & Computer Science
+- 👀 Mostly Interested in Java/C# Backend
 - 🍵 English B2 
 
 
