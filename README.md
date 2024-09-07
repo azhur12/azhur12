@@ -27,8 +27,8 @@
 
 **Tools**
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width="40" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" width="40" height="40" /><code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40 height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" width="40" height="40" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40 height="40" /></code>
 
 <div id="stats" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azhur12&theme=default"/>
