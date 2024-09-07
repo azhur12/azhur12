@@ -7,9 +7,9 @@
 </div>
 
 ### About me
-- 🦾 I'm currently studing Software Engineering & Computer Science
-- 👀 Mostly Interested in Java/C# Backend
-- 🍵 English B2 
+- I'm currently studying Software Engineering at ITMO University
+- Mostly Interested in Java/C# Backend
+- English B2 
 
 
 ### Languages and tools
@@ -32,6 +32,10 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" width="40" height="40" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" title="Grafana" width="40" height="40"/></code>
+          
+          
 
 
 
